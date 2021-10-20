@@ -25,8 +25,10 @@ void Start()
 
 private void FixedUpdate()
   {
+    if(!isGrounded){
+      chest.AddForce(0, -100, 0);
+    }
     //chest.AddForce(-chest.transform.y * speed * 1.5f);
-    chest.AddForce(0, -100, 0);
 /////////////////////////////
     if (Input.GetKey(KeyCode.W))
     {

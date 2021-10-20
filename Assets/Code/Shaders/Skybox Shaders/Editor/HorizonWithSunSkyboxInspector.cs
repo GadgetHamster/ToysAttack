@@ -65,6 +65,7 @@ public class HorizonWithSunSkyboxInspector : MaterialEditor
             {
                 var raz = az.floatValue * Mathf.Deg2Rad;
                 var ral = al.floatValue * Mathf.Deg2Rad;
+                //ral = Time.time * Mathf.Deg2Rad * 10f;
 
 
                 var upVector = new Vector4 (

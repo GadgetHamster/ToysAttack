@@ -67,15 +67,15 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _SkyExponent1: 3.41
+    - _SkyExponent1: 4.13
     - _SkyExponent2: 3
     - _SkyIntensity: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SunAlpha: 550
-    - _SunAltitude: 38
-    - _SunAzimuth: 20
+    - _SunAltitude: 44.138794
+    - _SunAzimuth: 0
     - _SunBeta: 1
     - _SunIntensity: 2
     - _UVSec: 0
@@ -87,4 +87,4 @@ Material:
     - _SkyColor2: {r: 0, g: 0.76277757, b: 1, a: 0}
     - _SkyColor3: {r: 0.04463333, g: 0.17795913, b: 0.5566038, a: 0}
     - _SunColor: {r: 1, g: 1, b: 1, a: 1}
-    - _SunVector: {r: 0.26951554, g: 0.6156615, b: 0.74048793, a: 0}
+    - _SunVector: {r: 0, g: 0.69639885, b: 0.71765494, a: 0}
